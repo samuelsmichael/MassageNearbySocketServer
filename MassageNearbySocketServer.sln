@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MNSSWindowsApp", "MNSSWindowsApp\MNSSWindowsApp.csproj", "{4879ACA7-C48F-434F-AF98-A8821BB80141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MNSSSocketManager", "MNSSSocketManager\MNSSSocketManager.csproj", "{33464597-27FB-4233-B5ED-B061F41B0AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "..\Common\Common\Common.csproj", "{F405217A-82C9-4B67-AC4E-0E257661354E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4879ACA7-C48F-434F-AF98-A8821BB80141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4879ACA7-C48F-434F-AF98-A8821BB80141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4879ACA7-C48F-434F-AF98-A8821BB80141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4879ACA7-C48F-434F-AF98-A8821BB80141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33464597-27FB-4233-B5ED-B061F41B0AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33464597-27FB-4233-B5ED-B061F41B0AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33464597-27FB-4233-B5ED-B061F41B0AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33464597-27FB-4233-B5ED-B061F41B0AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F405217A-82C9-4B67-AC4E-0E257661354E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F405217A-82C9-4B67-AC4E-0E257661354E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F405217A-82C9-4B67-AC4E-0E257661354E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F405217A-82C9-4B67-AC4E-0E257661354E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

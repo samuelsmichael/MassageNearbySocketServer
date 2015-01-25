@@ -1,0 +1,7 @@
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSSocketManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSSocketManager\bin\Debug\MNSSSocketManager.dll
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSSocketManager\bin\Debug\MNSSSocketManager.pdb
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSSocketManager\obj\Debug\MNSSSocketManager.dll
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSSocketManager\obj\Debug\MNSSSocketManager.pdb
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSSocketManager\bin\Debug\Common.dll
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSSocketManager\bin\Debug\Common.pdb

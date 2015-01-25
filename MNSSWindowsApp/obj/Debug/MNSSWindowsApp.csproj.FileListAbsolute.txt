@@ -1,0 +1,13 @@
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSWindowsApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSWindowsApp\obj\Debug\MNSSWindowsApp.Form1.resources
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSWindowsApp\obj\Debug\MNSSWindowsApp.Properties.Resources.resources
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSWindowsApp\obj\Debug\MNSSWindowsApp.csproj.GenerateResource.Cache
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSWindowsApp\bin\Debug\MNSSWindowsApp.exe.config
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSWindowsApp\bin\Debug\MNSSWindowsApp.exe
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSWindowsApp\bin\Debug\MNSSWindowsApp.pdb
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSWindowsApp\bin\Debug\MNSSSocketManager.dll
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSWindowsApp\bin\Debug\MNSSSocketManager.pdb
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSWindowsApp\obj\Debug\MNSSWindowsApp.exe
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSWindowsApp\obj\Debug\MNSSWindowsApp.pdb
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSWindowsApp\bin\Debug\Common.dll
+C:\Users\Diamond\Documents\Visual Studio 2008\Projects\MassageNearbySocketServer\MNSSWindowsApp\bin\Debug\Common.pdb
